@@ -41,7 +41,11 @@ new Vue({
       {
         text: "Description",
         value: "description"
-      }
+      },
+      // {
+      //   text: "Category",
+      //   value: "category"
+      // }
     ],
     items: []
   }),
